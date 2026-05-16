@@ -46,11 +46,11 @@ git push -u origin main
 - `assets/css/style.css`: Site styling and responsive layout.
 - `assets/files/Yoojin_Lee_CV.pdf`: Public CV link used by the website.
 - `assets/images/profile/yoojin-lee.jpg`: Profile photo used in the landing section.
-- `assets/images/research/`: Placeholder folder for future research figures.
+- `assets/images/research/`: Research project images used in the project cards.
 
 ## Manual Updates Still Needed
 
-- Replace the research placeholder images:
+- Replace the research project images as needed:
   - `assets/images/research/phagocytosis.jpg`
   - `assets/images/research/trogocytosis.jpg`
   - `assets/images/research/mps.jpg`
